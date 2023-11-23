@@ -11,7 +11,7 @@ To run the Connect4 game server, follow these steps:
 1. **Clone this repository to your local machine:**
 
 ```bash
-   [git clone https://github.com/your-username/connectx-server.git](https://github.com/Abdelkader-gnichi/Connect4-Server-SpringBoot.git)
+   git clone https://github.com/Abdelkader-gnichi/Connect4-Server-SpringBoot.git
 ```
 
 2. **Open the project in your preferred Java IDE.**
