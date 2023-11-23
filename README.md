@@ -27,7 +27,7 @@ To run the Connect4 game server, follow these steps:
 - **Tracking Player Actions:** The server tracks player actions such as resets and exits.
 
 
-## Screenshots of the Connect4 Interface
+## Screenshots of the Connect4 Interfaces Judged and Tracked by the Spring Boot Server Logic
 
 ### Main Interface
 ![Screenshot from 2023-11-23 18-52-06](https://github.com/Abdelkader-gnichi/connect4-client/assets/64486451/340f853e-4ac6-4eba-81e2-21dc955ec613)
